@@ -36,7 +36,7 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
   ## Credits
-  ${data.contributions}
+  ${data.credits}
   ## Questions
   ${data.questions}
   ## GitHub
