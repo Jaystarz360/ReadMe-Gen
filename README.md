@@ -1,26 +1,26 @@
 # [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
   ## Title
-  wdq 
+  adf 
   
   ## Table of Contents
   * [Description](#Description)
   * [Installations](#Installations)
   * [How to Use This Application](#HowtoUseThisApplication)
-  * [Contributors](#contributors)
+  * [Credits](#credits)
   * [Questions](#questions)
   * [GitHub](#github)
   * [License](#license)
   
   ## Description
-  qwd
+  asdf
   ## Installations
-  qwd
+  asdf
   ## Usage
-  qwdq
-  ## Contributors
-  dwqd
+  asd
+  ## Credits
+  undefined
   ## Questions
-  qwd
+  asdf
   ## GitHub
-  
+  asdf
   ## License

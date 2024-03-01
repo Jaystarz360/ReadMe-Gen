@@ -24,7 +24,7 @@ function generateMarkdown(data) {
   * [Description](#Description)
   * [Installations](#Installations)
   * [How to Use This Application](#HowtoUseThisApplication)
-  * [Contributors](#contributors)
+  * [Credits](#credits)
   * [Questions](#questions)
   * [GitHub](#github)
   * [License](#license)
@@ -35,7 +35,7 @@ function generateMarkdown(data) {
   ${data.installation}
   ## Usage
   ${data.usage}
-  ## Contributors
+  ## Credits
   ${data.contributions}
   ## Questions
   ${data.questions}
