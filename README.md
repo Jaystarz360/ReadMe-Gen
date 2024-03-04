@@ -32,8 +32,8 @@ After installation, input 'node. index.js' in this app's working folder to begin
 MDN, Google, Github
 
 ## Questions
-Please reach out to:
-https://github.com/Jaystarz360
+Please reach out to: <br>
+https://github.com/Jaystarz360 <br>
 https://jaystarz360.github.io/ReadMe-Gen/
 
 ## License
