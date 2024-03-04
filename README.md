@@ -22,13 +22,16 @@ After inputing information, this app will generate a README.md file for user to 
 ## Installation
 In the terminal, within this app's working folder, input 'init -y' and hit the enter key, then input 'npm i' to install package.json.
 
+## Video Tutorial
+https://drive.google.com/file/d/1MeqfJf7nAfwxCF6DgFmXibxdpPlPy7P_/view?usp=sharing&t=2
+
 ## Usage
 After installation, input 'node. index.js' in this app's working folder to begin.
 Video Walkthrough:
 
 ## Credits
 
-
+MDN, Google, Github
 
 ## Tests
 
