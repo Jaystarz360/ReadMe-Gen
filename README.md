@@ -25,6 +25,7 @@ After inputing information, this app will generate a README.md file for user to 
 In the terminal, within this app's working folder, input 'init -y' and hit the enter key, then input 'npm i' to install package.json.
 
 ## Video Walkthrough
+https://drive.google.com/file/d/1VkrE-j4hm6hNlUBD8_xh_DTff_Z3Toa1/view?usp=sharing
 
 
 ## Usage
