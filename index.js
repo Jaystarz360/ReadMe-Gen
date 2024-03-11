@@ -37,6 +37,11 @@ const questions = [
         name: "credits"
     },
     {
+        type: 'input',
+        name: 'projTest',
+        message: "What test data do you offer?",
+    },
+    {
         type: "input",
         message: "Please enter your email address: ",
         name: "questions",
