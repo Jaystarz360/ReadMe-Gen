@@ -14,6 +14,8 @@ After inputing information, this app will generate a README.md file for user to 
 
 -[Questions](#questions)
 
+-[Tests](#tests)
+
 -[GitHub](#github)
 
 -[License](#license)
